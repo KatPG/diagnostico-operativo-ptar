@@ -25,9 +25,7 @@ El objetivo de este proyecto es analizar los datos operativos de una planta de t
 *	Estandarizar la frecuencia y los protocolos de monitoreo de las condiciones operativas de la planta.
 *	Establecer un cronograma de mantenimiento preventivo que incluya la remoción periódica de lodos acumulados y la eliminación de zonas muertas que favorezcan el arrastre de sólidos.
 
-### **Archivos del proyecto**
+### Documentación del Proyecto
 
-**[Notebook: Análisis de Carga y Diagnóstico Operativo]( https://github.com/KatPG/diagnostico-operativo-ptar/blob/main/water_plant_eda.ipynb)**
-
-**[Ver Dataset Original](https://archive.ics.uci.edu/dataset/106/water+treatment+plant)**
-
+* **[Notebook: Análisis de Carga y Diagnóstico Operativo](water_plant_eda.ipynb)**
+* **[Dataset Original: Water Treatment Plant (UCI)](https://archive.ics.uci.edu/dataset/106/water+treatment+plant)**
