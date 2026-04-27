@@ -1,4 +1,5 @@
-Análisis de Procesos: Planta de Tratamiento de Aguas Residuales Urbanas
+### Análisis de Procesos: Planta de Tratamiento de Aguas Residuales Urbanas
+
 El objetivo de este proyecto es analizar los datos operativos de una planta de tratamiento de aguas residuales para identificar patrones de comportamiento, clasificar anomalías y establecer las condiciones críticas que generan fallas en la calidad del agua de salida. 
 
 Proceso de análisis
@@ -23,5 +24,6 @@ Recomendaciones
 
 Archivos del proyecto
 [Notebook: Análisis de Carga y Diagnóstico Operativo]( https://github.com/KatPG/diagnostico-operativo-ptar/blob/main/water_plant_eda.ipynb) 
+
 [Dataset Original] (https://archive.ics.uci.edu/dataset/106/water+treatment+plant)
 
